@@ -135,13 +135,13 @@ Terminal Output
 Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/Gemini-Memory-Chatbot.git
+git clone https://github.com/NikDev345/Intellichat.git
 ```
 
 Move into project folder
 
 ```bash
-cd Gemini-Memory-Chatbot
+cd Intellichat
 ```
 
 Install dependencies
